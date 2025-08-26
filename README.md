@@ -21,6 +21,14 @@ In the future, it will expand to support metrics, plugin management, and authent
 - Create, read, update, and delete (CRUD) routes
 - Bulk deletion of selected routes
 
+---
+
+## 🖼️ Screenshot
+
+Here’s what the Routes table currently looks like:
+
+![Routes Table](./docs/routes-table.png)
+
 ### Planned
 - Authentication
 - Metrics dashboard
